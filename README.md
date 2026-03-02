@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 git en local sur la machine modificatoin en plus
-
+git en local sur la machine pouet pouet
 ```
 
 ### Installation
